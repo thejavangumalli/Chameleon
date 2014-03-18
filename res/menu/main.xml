@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/location"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/location"
+        android:title="Location"/>
+   <!--  <item
+       android:id="@+id/time"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/time"
+        android:title="time">
+        
+    </item> -->
+
+</menu>
